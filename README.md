@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mykhailo Yevtushok
+- 👋 Hi, I’m Mykhailo
 - 👀 I’m interested in web-developering
 - 🌱 I’m currently learning HTML, CSS, JS, ...
 - 💞️ I’m looking to collaborate on web-developer's projects.
