@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mykhailo
 - 👀 I’m interested in web-developering
 - 🌱 I’m currently learning HTML, CSS, JS, ...
-- 💞️ I’m looking to collaborate on web-developer's projects.
+- 💞️ I’m looking to collaborate on web-development projects.
 - 📫 How to reach me e-mail:mykhailo.yevtushok@gmail.com, tel.:+38-097-138-09-63.
 
 <!---
